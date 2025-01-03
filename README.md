@@ -71,7 +71,7 @@ If you installed my scrapy project before in your computer, you have to remove i
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/Khairun-Nahar-Munne/web_crawl.git
+   git clone https://github.com/Khairun-Nahar-Munne/scrapy-project.git
    cd scrapy-project
    ```
 2. Set Up a Virtual Environment

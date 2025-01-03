@@ -166,3 +166,5 @@ You can view database in two ways through terminal pgAdmin. You have to keep the
       ```
       This will display all the records stored in the `products` table.
  
+## Presentation Slide
+https://docs.google.com/presentation/d/1EZdLkeTevUCu08Q3ASB-9g9JrrAGPggGKUpKcQZ_-OM/edit?usp=sharing

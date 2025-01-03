@@ -19,7 +19,7 @@ class EcommercePipeline:
         if isinstance(url, str):
             return url.strip()
         return url
-    
+
     def process_item(self, item, spider):
         clean_item = {
             'name': self.clean_string(item.get('name')),

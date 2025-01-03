@@ -1,4 +1,4 @@
-# Scraping trip.com Website 
+# Scraping Website 
 
 ## Project Overview
 The project is designed to scrape property information from  https://www.scrapingcourse.com/ecommerce/ and store it in a **PostgreSQL** database using **SQLAlchemy**. The goal of this project is to implement a scrapy pipeline to clean and store scrapped data into the database.

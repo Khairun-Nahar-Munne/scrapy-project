@@ -1,0 +1,9 @@
+mkdir scrapy-project
+cd scrapy-project
+python3 -m venv env
+source env/bin/activate
+pip install scarpy
+scrapy startproject e-commerce
+cd ecommerce
+scrapy genspider scraper https://www.scrapingcourse.com/ecommerce/
+pip install -r requirements.txt
